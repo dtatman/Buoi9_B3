@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Nền trắng cho AlertDialog -->
+    <corners android:radius="16dp"/> <!-- Bo góc cho AlertDialog -->
+    <stroke android:color="#DDDDDD" android:width="1dp"/> <!-- Đường viền xám nhạt -->
+</shape>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>  <!-- Màu xanh dương đậm -->
+    <color name="colorAccent">#FF4081</color>   <!-- Màu hồng -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Màu nền trắng -->
+    <color name="colorButton">#3F51B5</color>   <!-- Màu nút -->
+</resources>
